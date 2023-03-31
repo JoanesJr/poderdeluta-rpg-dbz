@@ -317,7 +317,7 @@ export const HomeScreen = () => {
                       p: 2,
                       position: "absolute",
                       top: { xs: 0, lg: 25 },
-                      left: { xs: 0, lg: 1300 },
+                      left: { xs: 0, lg: 1150, xl: 1300 },
                     }}
                   >
                     {/* <Typography variant="h5">Seu poder de luta é: </Typography> */}
